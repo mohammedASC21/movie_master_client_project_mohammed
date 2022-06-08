@@ -1,11 +1,9 @@
 # Project Name
+Movie Master
+
 
 ## Team Members
-
-## Problem
-
-## Opportunity
-
-## Technical Magic
+Mohammed
 
 ## Future Vision
+Implement more functionality 
