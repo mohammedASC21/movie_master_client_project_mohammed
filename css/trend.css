@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    color: #02fffb;
+    font-size: 60px;
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+    margin: -10px;
+  }
+  
+  h2 {
+    color: red;
+    font-size: 40px;
+  }
+  img {
+    width: 300px;
+    height: 450px;
+    /* float: left; */
+  
+  }
+  /* .Movie_info{
+    display:inline-block;
+    vertical-align:top;
+  }
+  
+  .Movie_info2 {
+    display:inline-block;
+  } */
+  
+  
+  .M_overview {
+    width: 400px;
+  }
+  
+  .main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* flex-wrap: wrap; */
+    
+    margin: 20px;
+    
+  }
+  
+  
+  .dddd {
+    text-align: center;
+    
+  }
+  
+  .Movie_info2 {
+    background-color: aqua;
+    padding: 50px;
+    margin: 10px;
+    font-size: 20px;
+  
+    height: 400px;
+
+
+    /* margin-bottom: 30px; */
+    
+  }
+  
+  .Movie_info {
+    /* background-color: aqua; */
+    margin: 10px;
+    height: 500px;
+   
+    /* margin-bottom: 30px; */
+    
+  }
+
+  .M_title {
+      font-weight: 800;
+      font-size: 25px;
+  }
+  
+
+  h1:hover {
+
+  }
